@@ -1,0 +1,1 @@
+# DineSafe-Data
